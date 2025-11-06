@@ -19,13 +19,13 @@ def get_user_inputs():
     first_occ_rate_per_sqft = st.sidebar.number_input("In Place SS Rent/PSF", min_value=0.0, max_value=10.0, value=1.0, step=0.01, key='first_occ')
     # sum_unit = st.sidebar.number_input("Total Units", min_value=0, max_value=1000000, value=100, step=1, key='sum_unit')
     # sqft = st.sidebar.number_input("Total RSF", min_value=0, max_value=1000000000, value=10000, step=1, key='sqft')
-    MHHI = st.sidebar.number_input("3 Mile 2025 HHI", min_value=0, max_value=1000000, value=100000, step=1, key='mhhi')
-    Pop = st.sidebar.number_input("3 Mile 2025 Population", min_value=0, max_value=1000000, value=100000, step=1, key='pop')
+    MHHI = st.sidebar.number_input("5 Mile 2025 HHI", min_value=0, max_value=1000000, value=65000, step=1, key='mhhi')
+    Pop = st.sidebar.number_input("5 Mile 2025 Population", min_value=0, max_value=1000000, value=50000, step=1, key='pop')
     office = st.sidebar.checkbox("Is Office?", value=True, key='office')
-    Supply = st.sidebar.number_input("3 Mile 2025 SS RSF/Capita", min_value=0.0, max_value=100.0, value=10.0, step=0.01, key='supply')
+    Supply = st.sidebar.number_input("5 Mile 2025 SS RSF/Capita", min_value=0.0, max_value=100.0, value=10.0, step=0.01, key='supply')
     perc_cc = st.sidebar.number_input("Percent CC", min_value=0.0, max_value=1.0, value=0.5, step=0.01, key='perc_cc')
     perc_ncc = 1 - perc_cc
-    zip_code = st.sidebar.text_input("Zip Code", value="10001", max_chars=5, key='zip_code')
+    zip_code = st.sidebar.text_input("Zip Code", value="33401", max_chars=5, key='zip_code')
     zip_code = zip_code.zfill(5)
     seller_reference = 1
     user_inputs = pd.DataFrame({
@@ -137,9 +137,9 @@ def prepare_inputs(user_data, zip_codes, housing, housing_cols):
 def predict_occ_rate(user_data, model):
     occ_rate_preds = []
 
-    for y in range(10):
+    for y in range(1, 11):
         df_pred = user_data.copy()
-        df_pred['years_of_growth'] = y
+        df_pred['years_of_growth'] = y-0.5
         current_year = datetime.datetime.today().year
         df_pred['Year'] = current_year + y
         if 'occ_rate_per_sqft' in df_pred.columns:
@@ -148,7 +148,7 @@ def predict_occ_rate(user_data, model):
             X_pred = df_pred
         y_pred = model.predict(X_pred)
         df_pred['occ_rate_per_sqft_pred'] = y_pred
-        df_pred['growth'] = (df_pred['occ_rate_per_sqft_pred']/df_pred['first_occ_rate_per_sqft'])**(1/(y+1)) - 1
+        df_pred['growth'] = (df_pred['occ_rate_per_sqft_pred']/df_pred['first_occ_rate_per_sqft'])**(1/(y)) - 1
         occ_rate_preds.append(df_pred[['SellerReference#', 'Year', 'occ_rate_per_sqft_pred', 'growth']])
 
     occ_rate_pred_df = pd.concat(occ_rate_preds, ignore_index=True)
@@ -156,7 +156,7 @@ def predict_occ_rate(user_data, model):
     
     # Calculate growth rate
     occ_rate_pred_df = occ_rate_pred_df.sort_values(['SellerReference#', 'Year'])
-    # occ_rate_pred_df['growth'] = occ_rate_pred_df.groupby('SellerReference#')['occ_rate_per_sqft_pred'].pct_change()
+    occ_rate_pred_df['growth YoY'] = occ_rate_pred_df.groupby('SellerReference#')['occ_rate_per_sqft_pred'].pct_change()
     
     return occ_rate_pred_df
 
@@ -164,9 +164,9 @@ def create_waterfall_chart(pipeline_model, user_data):
 
     st.subheader("Prediction Breakdown (Vertical Waterfall)")
     current_year = datetime.datetime.today().year
-    year =st.slider("Year", min_value=current_year, max_value=current_year +9, value=current_year+4, step=1)
+    year =st.slider("Year", min_value=current_year+1, max_value=current_year +10, value=current_year+4, step=1)
     user_data['Year'] = year
-    user_data['years_of_growth'] = year - current_year
+    user_data['years_of_growth'] = year - current_year - 0.5
     # Extract model and scaler
     preprocessor = pipeline_model.named_steps['preprocessor']
     model = pipeline_model.named_steps['regressor']
@@ -278,13 +278,20 @@ if st.session_state.show_predictions:
         # st.write(input_data)
         pred_data = predict_occ_rate(input_data, linear_reg_occ_rate_model)
         
-        # Calculate and display CAGR
+        # Calculate and display CAGR and Avg YoY Growth immediately next to each other
         avg_growth = pred_data.loc[pred_data['Year'] == pred_data['Year'].max(), 'growth'].mean()
-        st.metric(label="CAGR", value=f"{avg_growth:.2%}")
+        avg_growth_yoy = pred_data['growth YoY'].mean()
+        col1, col2, _ = st.columns([1, 1, 8])
+        with col1:
+            st.metric(label="Final CAGR", value=f"{avg_growth:.2%}")
+        with col2:
+            st.metric(label="Average YoY Growth", value=f"{avg_growth_yoy:.2%}")
         
         # Format 'growth' column as percentage with 2 decimal points for display
-        display_df = pred_data[['Year', 'occ_rate_per_sqft_pred', 'growth']].copy()
+        display_df = pred_data[['Year', 'occ_rate_per_sqft_pred', 'growth', 'growth YoY']].copy()
         display_df['growth'] = display_df['growth'].apply(lambda x: f"{x:.2%}" if pd.notnull(x) else "")
+        display_df['growth YoY'] = display_df['growth YoY'].apply(lambda x: f"{x:.2%}" if pd.notnull(x) else "")
+        display_df = display_df.rename(columns={'occ_rate_per_sqft_pred':'In Place Rate/PSF', 'growth':'CAGR by Year', 'growth YoY':'YoY Growth'})
         st.write(display_df)
         create_waterfall_chart(linear_reg_occ_rate_model, input_data)
         training_data = pd.read_csv('occ_rate_model_train_data.csv')  # update path to your actual dataset
