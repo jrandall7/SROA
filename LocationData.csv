@@ -1,0 +1,681 @@
+Property,Unit_Count,Area,rate_psf
+L064O-Bear-PGA,867,116.0,0.8184
+L282O-Georgetown 250 Connector Rd,313,148.0,0.8459
+L313O-Dayton 1830 Needmore Rd,601,104.0,0.5895
+L366O-Southaven 1332 Rasco Road W.,312,120.0,0.4382
+L404O-San Angelo 3120 Knickerbocker Rd.,338,127.0,0.5424
+L564O-Monroe 15420 S. Telegraph Rd.,382,96.0,0.3025
+L044O-Lexington Lake Dr,152,153.0,0.6121
+L072O-Akron,296,130.0,0.6786
+L231O-Kirkwood 1429 Route 11,277,141.0,0.8747
+L465O-Pewaukee N14 W24789 Bluemound Rd.,419,135.0,0.7473
+L550O-Morgantown 1221 Canyon Rd.,393,118.0,0.5119
+L109O-Taylor,434,128.0,0.6648
+L176C-Elkhart County Rd. 9 (C),674,139.0,0.2706
+L405O-Plainview 1401 I-27,341,126.0,0.8717
+L135O-Old Hickory,330,123.0,0.7079
+L296O-Annandale 350 Commercial Drive West,170,175.0,0.428
+L441O-Yorkville 1410 S Bridge St.,355,141.0,0.6229
+L060O-Jacksonville,547,115.0,0.617
+L357O-Jacksonville 1230 Gum Branch Rd.,606,133.0,0.8212
+L499O-Sherwood 4101 East Kiehl Ave.,222,123.0,0.645
+L151O-Simsbury,579,123.0,0.7345
+L183A-Fort Wayne Lower Huntington Rd. (A),211,116.0,0.5456
+L356A-Jacksonville 264 Center St. (A),220,85.0,0.7429
+L187A-Camden 2636 Broad St. (A),73,121.0,0.8407
+L377O-Baton Rouge 11500 S. Harrells Ferry Rd.,332,115.0,0.2989
+L518O-Ashland 103 Jane Hill Rd.,224,94.0,0.8031
+L254O-Orange Park 369 Blanding Blvd,922,120.0,0.5794
+L160O-Menomonee Valley,309,184.0,0.7666
+L335O-Ravenna 2862 OH-59,352,137.0,0.5693
+L445O-Woodstock 2105 S Eastwood Dr.,331,144.0,0.9204
+L535O-West Monroe 106 Circle Dr,179,175.0,0.6769
+L572O-Breckenridge Hills 9651 St. Charles Rock Rd.,156,168.0,0.3599
+L012O-London,633,115.0,0.7773
+L236O-Butler 540 Pittsburgh Road,147,122.0,0.8967
+L505O-Mayflower 614 Hwy 365 S.,182,112.0,0.638
+L112O-Wrightsboro Augusta,323,106.0,0.3689
+L176O-Elkhart County Rd. 113 (O),754,141.0,0.2346
+L261O-Winston-Salem 2690 E Sprague St.,339,123.0,0.5299
+L449O-Antioch 399 Main St.,216,150.0,0.7836
+L594O-Park City 6331 N. Louisville St.,107,154.0,0.6208
+L006A-West Liberty Main Street (A),36,140.0,0.8256
+L094O-Kentwood,522,111.0,0.5406
+L140O-Murfreesboro,525,155.0,0.5779
+L180A-Muncie West 8th St. (A),261,129.0,0.2997
+L220O-Kalamazoo 504 E Michigan Avenue,226,145.0,0.7208
+L624O-Lakeland 2200 E Edgewood Dr,794,98.0,0.4753
+L010A-Winchester (A),420,121.0,0.7996
+L053O-Pencader,822,131.0,0.6773
+L105O-Lake Orion,545,128.0,0.6282
+L133O-Goodlettsville Main St,293,147.0,0.6672
+L206O-Charleston Piedmont Road,244,103.0,0.6264
+L187C-Camden Stewart St. (C),153,108.0,0.9125
+L104O-Clarkston (O),168,147.0,0.7434
+L177D-Wheatfield IN-10 (D),112,188.0,0.5359
+L343O-Dothan 2717 Ross Clark Circle,385,138.0,0.5001
+L257O-Chapin 2140 Wessinger Road,156,156.0,0.6209
+L428O-Denham Springs 8245 Commerce Dr.,173,158.0,0.3179
+L457O-Crown Point 1010 Millennium Dr.,207,164.0,0.5999
+L477O-Jeffersonville 5814 Hamburg Pike,214,146.0,0.4263
+L276O-Billings 1040 Bench Blvd,303,242.0,0.3528
+L406A-Nacogdoches 2615 South St. (A),266,162.0,0.5109
+L610A-Mishawaka Peach Tree Lane (A),176,153.0,0.5007
+L002O-Paintsville (O),494,123.0,0.9129
+L352O-Augusta 3531 Peach Orchard,997,140.0,0.4631
+L154O-Bloomfield,299,124.0,0.5985
+L617O-Houston 4100 West 34th St,531,117.0,0.5001
+L031O-Bypass Road,485,129.0,0.8134
+L251O-Zanesville 1295 Richey Road,338,146.0,0.4911
+L130O-Sumter,240,161.0,0.7894
+L167O-Butler,49,85.0,0.471
+L475O-Charlestown 5600 Lucas Ave.,411,134.0,0.6534
+L625O-Sun Bay South 5024 S Manhattan Ave,499,120.0,0.785
+L138O-Knoxville Sutherland,380,116.0,0.6353
+L413O-Pass Christian 515 West North St.,306,131.0,0.6809
+L510O-Marshall 18771 Partello Rd.,117,136.0,0.7236
+L117O-Rocky Mount,291,125.0,0.6593
+L515O-Caledonia 5590 68th St. SE,246,164.0,0.5168
+L468O-Springfield 425 22nd Ave E,360,120.0,0.6278
+L034O-Florence,256,115.0,0.3642
+L197A-Albany Slappey Blvd. (A),205,104.0,0.5193
+L319O-Bozeman 6625 Tawny Brown Dr,978,188.0,0.5346
+L425O-Denham Springs 30580 Dunn Rd.,138,130.0,0.7554
+L180B-Muncie Kilgore Ave (B),323,114.0,0.3578
+L353O-Hephzibah 2241 Brown Rd.,364,147.0,0.3973
+L438O-Janesville 1900 Alden Rd.,236,193.0,0.678
+L163O-Greenfield,262,152.0,0.5009
+L299O-Becker 13255 Bradley Blvd,130,191.0,0.6225
+L496O-Pine Bluff 2907 S Camden Rd.,292,129.0,0.271
+L411O-Biloxi 8265 Woolmarket Rd.,344,132.0,0.4407
+L173O-Temple Hills,553,120.0,1.0815
+L277O-Key West 113 Overseas Hwy,375,115.0,2.1076
+L340O-Opelika 3806 Pepperell Pkwy.,304,125.0,0.3135
+L525O-Vicksburg 4299 Halls Ferry Rd.,145,118.0,0.8004
+L272O-King George 8534 Kings Hwy,559,125.0,0.9827
+L410O-Collinsville 120 Troy Rd.,556,146.0,0.5352
+L003B-Willard (B),115,130.0,0.4859
+L166O-Menomonee Falls,198,243.0,0.5533
+L175O-Kent SR-43,180,186.0,0.4842
+L471O-Clarksville 519 Lafayette Rd.,374,106.0,0.4765
+L610B-Elkhart Mishawaka Rd. (B),458,128.0,0.6656
+L146O-Willmantic,410,137.0,0.9704
+L483O-Hodgenville 1270 Old Elizabethtown Rd.,124,108.0,0.4563
+L137O-Knoxville Papermill,520,106.0,0.6803
+L178A-Benton Harbor M-139 (A),169,111.0,0.9155
+L179A-Anderson Scott St. (A),293,136.0,0.4824
+L198O-Charleston Hansford St.,440,85.0,0.9117
+L361O-Aberdeen 10500 Highway NC-211,241,178.0,1.0239
+L400O-Port Arthur 2641 W Highway 365,440,237.0,0.4874
+L228O-Hamburg 3640 State Rt 94,273,84.0,0.8461
+L415O-Slidell 2398 Gause Blvd W.,430,122.0,0.4329
+L197O-Albany Camp Lane,278,121.0,0.5623
+L271O-Fredericksburg 370 White Oak Rd,218,116.0,0.9594
+L281O-Iowa City 2308 Heinz Rd,668,99.0,0.7521
+L388O-Granite City 910 St Thomas Rd.,386,131.0,0.6052
+L443O-North Aurora 210 John St.,408,141.0,0.367
+L527O-Shreveport 1981 Hearne Ave.,221,118.0,0.486
+L213Y-Silvis 231 1st Avenue North  (Y),30,188.0,0.4362
+L237O-New Castle 720 N Croton Avenue,120,130.0,0.6133
+L374O-Evansville 4619 Washington Ave.,677,118.0,0.6553
+L403O-Lubbock 131 W Loop 289,687,112.0,0.6241
+L618O-East Providence 3346 Pawtucket Ave,364,108.0,0.6496
+L040O-Simpsonville,580,119.0,0.7834
+L332O-Hamilton 537 N Daly Avenue,176,245.0,0.449
+L573O-Terre Haute 1391 S. State Rd. 46,520,127.0,0.5118
+L464O-Milwaukee 6980 N. Teutonia Ave.,177,174.0,0.5279
+L041A-Beaufort (A),41,98.0,1.092
+L046O-Glasgow Pines,447,114.0,0.8952
+L039O-Litton Drive,342,135.0,0.4568
+L199O-Warner Robins Greenbriar Rd.,178,119.0,0.3927
+L124O-Simpsonville Grandview,233,150.0,0.7669
+L199A-Warner Robins Green St. (A),191,103.0,0.486
+L462O-Sycamore 2185 Gateway Dr.,290,157.0,0.7475
+L482O-Radcliff 2500 S. Dixie Blvd.,439,144.0,0.6636
+L523O-Mansfield 1435 Orchard Park Rd.,375,155.0,0.528
+L560O-Hudson 3000 S. Hudson Rd.,397,207.0,0.3867
+L336O-Columbia Falls 4425 Trumble Creek Rd ,328,224.0,0.6511
+L014A-Ashland (A),123,152.0,0.7311
+L275O-Billings 2850 Overland Ave,288,166.0,0.5038
+L458O-DeKalb 202 Harvestore Dr.,621,155.0,0.5791
+L161O-Cudahy,415,155.0,0.6446
+L397O-Odessa 3233 East Highway 80,156,143.0,0.5043
+L559O-Cedar Falls 5719 Westminster Dr.,278,184.0,0.56
+L599O-Bozeman 1622 Bobcat Drive,289,165.0,0.5533
+L200A-Frankfort State Rd. 28 (A),116,137.0,0.6785
+L048O-Red Lion,502,127.0,1.1197
+L406O-Nacogdoches 2903 South St.,377,162.0,0.5095
+L598O-Cypress 17433 Lewis Drive,288,183.0,0.4576
+L453O-New Lenox 10 Ford Dr.,134,151.0,0.7543
+L493O-Topeka 2227 NW Vail Ave.,162,131.0,0.8036
+L176J-Mishawaka Peach Tree Lane (J),58,200.0,0.5288
+L194B-Athens Commerce Rd. (B),90,138.0,0.3301
+L143O-Uxbridge,417,136.0,0.7846
+L172O-West Palm Beach 1717 45th Street,786,90.0,0.634
+L514O-Grand Ledge 13894 North Hartel Rd.,120,138.0,0.5301
+L619O-Hope Valley 1115 Main St,319,122.0,0.9087
+L087O-Ravenna - Loomis,186,106.0,0.4335
+L300O-Clearwater 17425 County Rd 75 NW,192,243.0,0.4681
+L538O-Mobile 2610 Schillinger Rd. S.,265,132.0,0.1651
+L176I-Middlebury Spring Meadow Farm (I),42,679.0,0.4285
+L264O-Roscommon N. Cut Road,357,152.0,0.3464
+L314O-Huber Heights 7370 Bridgewater Rd,163,233.0,0.4492
+L570O-Collinsville 1 Business Center Court,311,131.0,0.5279
+L123O-Spartanburg Cedar Springs,154,121.0,0.6662
+L191O-Marion 2nd St.,456,136.0,0.5338
+L417O-Madisonville 155 Hwy. 21,418,152.0,0.8055
+L435O-Rockford 5750 Sandy Hollow Rd.,167,153.0,0.4418
+L058O-Hobe Sound II,485,79.0,1.004
+L250O-Granville 6595 Columbus Road,292,143.0,0.4557
+L459O-DeKalb 214 Harvestore Dr.,160,158.0,0.6531
+L083O-Elyria,309,155.0,0.6301
+L177F-La Porte IN-39 (F),201,130.0,0.6836
+L310O-Germantown 2376 Beechwood Dr,278,146.0,0.7551
+L325O-St Cloud 3678 Roosevelt Rd,681,183.0,0.3842
+L108O-Romulus Ecorse,317,134.0,0.8413
+L316O-Old Hickory 101 Matterhorn Dr,245,119.0,1.1238
+L363O-Greenville 2815 White Horse Rd.,301,104.0,0.4
+L382O-Slidell 775 Brownswitch Rd.,524,151.0,0.4929
+L509O-Osceola 1104 Lincolnway W,348,99.0,0.4032
+L524O-Vicksburg 3434 Wisconsin Ave.,218,100.0,0.5931
+L152O-Waterbury East,418,108.0,0.8845
+L187O-Camden 2619 Broad St.,74,118.0,1.0191
+L521O-Whitehall 4580 E Broad St.,501,125.0,0.447
+L148O-Meriden,424,142.0,0.7538
+L193O-Simpsonville Arbor Keats,235,127.0,0.5188
+L196O-Battle Creek 1061 Michigan Ave.,181,130.0,0.4739
+L200O-Frankfort Prairie St.,194,125.0,0.7121
+L247O-Columbus Eastland 3995 Groves Road,143,136.0,0.4561
+L347O-Augusta 3044 Washington Rd.,885,124.0,0.4522
+L610O-Elkhart Franklin St.,576,139.0,0.3845
+L365O-Conway 2787 E Hwy 501,718,154.0,0.4378
+L393A-Gulfport 13953 Washington Ave. (A),71,200.0,0.3419
+L406B-Nacogdoches 2415 South St. (B),181,184.0,0.5179
+L180O-Yorktown Kilgore Ave.,459,158.0,0.3825
+L224O-Grand Blanc 7298 Fenton Road,372,134.0,0.5652
+L045O-Myrtle Beach,728,137.0,0.5563
+L164O-Hales Corner,273,129.0,1.3445
+L211Y-Imlay City 311 E. Capac Rd (Y),172,129.0,0.8034
+L596O-Wichita 511 W. MacArthur Rd.,227,212.0,0.4507
+L016O-Danville,596,140.0,0.6836
+L621O-Woodland Acres 713 Turner Field Rd,323,129.0,0.3839
+L121O-Spartanburg Reidville,283,115.0,0.6622
+L342O-Dothan 116 South Woodburn,369,129.0,0.6396
+L565O-Trenton 5620 Hoover St.,203,109.0,0.537
+L032O-Bowling Green,434,111.0,0.7704
+L356O-Jacksonville 135 Center St.,450,130.0,0.7326
+L059O-Palm Beach Gardens,591,96.0,0.7892
+L455O-Glenwood 19301 Chicago Heights Glenwood Rd.,350,148.0,0.6483
+L118O-Rock Hill,365,95.0,0.4718
+L147O-Griswold,394,149.0,0.9226
+L294O-Annandale 9754 Highway 55 NW,156,204.0,0.4622
+L540O-Mobile 275 Schillinger Rd.,287,133.0,0.4143
+L215O-Portage 350 Romence Road,188,115.0,0.7436
+L567O-Maumee 6644 Maumee Western Rd.,229,152.0,0.583
+L369O-Fleming Island 3585 US Hwy 17,966,97.0,0.6861
+L378O-Baton Rouge 9530 Dawnadele Ave.,484,146.0,0.3933
+L460O-Cortland 190 W. Stephenie Dr.,359,168.0,0.6073
+L500O-North Little Rock 3400 Industrial Center Dr.,319,133.0,0.4159
+L539O-Mobile 1550 Leroy Stevens Rd.,188,137.0,0.4465
+L612O-Vero Beach 1801 US-1,616,105.0,0.7492
+L018O-Wheelersburg (O),374,123.0,0.8228
+L177O-DeMotte Industry Dr. (O),171,180.0,0.3993
+L188B-Hartsville 1210 Carolina Ave. (B),379,110.0,0.481
+L295O-Annandale 247 Myrtle Dr S,91,242.0,0.3401
+L522O-Cambridge 125 W Market St.,238,147.0,0.8558
+L142O-Northborough (O),574,104.0,0.7851
+L420O-Hammond 19120 US Highway 190,389,141.0,0.8175
+L491O-St. Joseph 3805 Sherman Ave.,215,133.0,0.3408
+L442O-Oswego 1960 Wiesbrook Rd.,420,143.0,0.902
+L446O-Woodstock 740 Washington St.,264,135.0,0.8344
+L240O-Akron 3020 Sanitarium Road,272,144.0,0.7238
+L472O-Gallatin 1261 Airport Rd.,480,139.0,0.6176
+L478O-New Albany 1909 Unruh Court,231,147.0,0.4078
+L611O-Hartsville 1313 W. Bobo Newsom,323,123.0,0.5498
+L149O-Derby,285,131.0,1.0424
+L179O-Anderson MLK Jr. Blvd.,429,163.0,0.5235
+L227O-Ann Arbor 2200 Airey Court,635,125.0,0.708
+L245O-Lakeside Marblehead 5681 E Harbor Road,307,171.0,0.4298
+L308O-Alexandria 715 22nd Ave,284,147.0,0.5178
+L416O-Mandeville 69201 Hwy. 59,448,124.0,0.7264
+L014O-Ashland (O),331,122.0,0.6854
+L075O-Cuyahoga Falls,185,164.0,0.7949
+L178O-Saint Joseph Red Arrow,644,137.0,0.7072
+L235O-Hermitage 490 Allen Road,176,113.0,0.6973
+L326O-Lynchburg 18317 Forest Rd.,1159,127.0,0.4384
+L408O-Livingston 4414 US Highway 190,557,147.0,0.3677
+L452O-Sturtevant 200 S. Sylvania Ave.,282,173.0,0.5673
+L127O-Easley,396,105.0,0.7068
+L444O-Elgin 1220 Davis Rd.,235,123.0,0.4925
+L484O-Richmond 455 East Main St.,261,106.0,0.9311
+L327O-Missoula 4101 US-93,751,139.0,0.7573
+L212O-Davenport 2501 N. Lincoln Ave,692,145.0,0.4474
+L024O-Pikeville,492,121.0,0.9544
+L098O-Comstock Park,386,112.0,0.6609
+L306O-Little Falls 1710 Mary Anne Ave,311,141.0,0.4323
+L431O-Port Allen 3455 LA Highway 1 S.,313,135.0,0.4184
+L531O-Richland 600 Industrial Dr.,371,91.0,0.3601
+L132O-Florence Pamplico,376,142.0,0.7186
+L297O-South Haven 14998 Hwy 55,39,183.0,0.4375
+L331O-Hamilton 350 Old Corvallis Road,245,230.0,0.487
+L346O-Augusta 1045 Bertram Rd.,350,132.0,0.4346
+L422O-Hammond 14189 W. University Ave.,744,112.0,0.5382
+L501O-Little Rock 7201 Interstate 30,352,120.0,0.1335
+L176E-Middlebury State Rd. 13 (E),121,264.0,0.539
+L188C-Hartsville 1313 W. Bobo Newsom (C),311,123.0,0.5187
+L078O-Streetsboro (O),460,138.0,0.6324
+L270O-Stephenson 689 Old Charles Town Rd,561,160.0,0.6172
+L054O-Hobe Sound,328,130.0,1.3735
+L188D-Hartsville 1918 W. Bobo Newsom (D),158,133.0,0.7201
+L373O-Newburgh 6998 Loehr Rd.,482,151.0,0.57
+L380O-Prairieville 36501 Oak Plaza Ave.,382,139.0,0.8296
+L513O-Lansing 6140 Pleasant Grove Rd.,363,134.0,0.3808
+L584O-Huntsville 2055 Members Dr SW,269,183.0,0.2432
+L006B-West Liberty Glenn Avenue (B),30,122.0,0.8107
+L021O-Berea,242,119.0,1.0505
+L041O-Beaufort (O),428,138.0,0.7661
+L376O-Topeka 1825 SW Westport Dr.,404,150.0,0.6858
+L486O-Grandview 12120 Grandview Rd.,364,132.0,0.2636
+L497O-Hot Springs 418 Golf Links Rd.,368,151.0,0.4252
+L583O-Huntsville 2756 Jordan Ln NW,286,112.0,0.1768
+L218O-Lansing 2715 N Grand River Avenue,193,155.0,0.5711
+L315O-Lima 2913 Vera Way,581,184.0,0.4954
+L322O-Bozeman 26 Old Milwaukee Dr,570,206.0,0.5524
+L372O-Memphis 2700 Getwell Rd.,979,125.0,0.2973
+L454O-Richton Park 23150 Governors Highway,110,110.0,0.7789
+L528O-Greenwood 8890 Greenwood Rd.,106,155.0,1.0433
+L301O-St Cloud 6719 Gregory Park Road,216,193.0,0.2922
+L384O-Pontoon Beach 3715 Horseshoe Lake Rd.,411,136.0,0.7859
+L473O-Lebanon 211 Maddox-Simpson Pkwy.,532,136.0,0.6765
+L195O-Muncie Jackson St.,326,141.0,0.4657
+L430O-Baker 12770 Plank Rd,337,99.0,0.6444
+L571O-Granite City 3117 West Chain of Rocks Rd.,304,215.0,0.3849
+L268O-Alexandria 4900 Eisenhower Ave,625,105.0,1.3024
+L033O-Anderson,400,144.0,0.5996
+L214O-Harrison Township 43170 Lenfesty Dr,155,140.0,0.5718
+L222O-Kalamazoo 2639 S Sprinkle Road,246,129.0,0.5472
+L395O-Meridian 2316 Highway 19,214,128.0,0.7452
+L088O-Cortland,37,141.0,0.554
+L201O-Rock Hill Albright Rd.,188,116.0,0.3866
+L278O-Northwood 343 E. Andrus Rd,142,132.0,0.6918
+L092O-Azalea Park,432,120.0,0.4404
+L339O-Tallahassee 5460 Apalachee Pkwy,420,96.0,0.8928
+L412O-Gulfport 12497 Three Rivers Rd.,214,144.0,0.4345
+L386O-Imperial 1003 Imperial Main St.,108,129.0,0.7784
+L069O-Estero - Corkscrew,618,128.0,0.7726
+L526O-Vicksburg 3040 D Indiana Ave.,339,79.0,0.6208
+L129O-Irmo,395,104.0,0.397
+L390O-Eureka 306 W. Fourth St.,343,141.0,0.3673
+L393O-Gulfport 365 Tegarden Rd.,392,119.0,0.4953
+L029O-Winn Avenue,300,117.0,0.675
+L405A-Plainview 1111 Mesa Dr. (A),140,173.0,0.7252
+L451O-Gurnee 1797 N. Delany Rd.,426,130.0,0.4933
+L622O-West Palm Beach 1547 N Florida Mango Rd,711,134.0,0.9413
+L182O-Muncie Wheeling Ave.,484,149.0,0.3546
+L392O-Valley Park 43 Old Elam Ave.,649,146.0,0.7138
+L427O-Denham Springs 32241 LA Hwy 16,119,137.0,0.5574
+L447O-Genoa City 180 Elizabeth Lane,280,200.0,0.7526
+L561O-Adel 2300 Greene St.,324,160.0,0.4469
+L003A-Greenwich (A),59,147.0,0.3633
+L176F-Elkhart County Rd. 4 (F),519,118.0,0.348
+L364O-Spartanburg 1480 Boiling Springs Rd.,320,130.0,0.4673
+L368O-Danville 2405 Riverside Dr.,393,118.0,0.9891
+L398O-Odessa 3151 E Business 20,412,99.0,0.8052
+L592O-Carbondale 1100 North Illinois Ave.,264,124.0,0.6021
+L023O-Lawrenceburg,504,125.0,0.8493
+L577O-Montgomery 5500 Wares Ferry Rd.,465,120.0,0.2409
+L144O-North Smithfield,481,87.0,1.0361
+L162O-Oak Creek,379,134.0,0.6592
+L279O-Nicholasville 431 E. Brannon Rd,772,96.0,1.0976
+L533O-Monroe 207 Chatham St.,132,124.0,0.4326
+L349O-Augusta 3121 Washington Rd.,184,132.0,0.421
+L536O-West Monroe 3701 Arkansas Rd.,80,128.0,0.5569
+L341O-Opelika 501 North 26th St.,460,126.0,0.3669
+L043A-Hampton (A),83,144.0,0.9499
+L217O-Mason 566 N Cedar Street,356,131.0,0.3723
+L418O-Covington 74145 Hwy 25,388,140.0,0.7943
+L593O-Maize 5081-5085 N. Maize Rd.,153,181.0,0.7566
+L181A-Auburn North St. (A),255,123.0,0.4999
+L001A-Morehead (A),100,134.0,0.7902
+L002A-Hager Hill (A),167,92.0,0.9299
+L216O-Portage 7750 S Sprinkle Road,120,190.0,0.5941
+L096O-Wyoming (O),316,123.0,0.68
+L320O-Bozeman 34 Quinns Rd,352,153.0,0.6067
+L595O-Wichita 3429 West 8th St. N.,226,79.0,0.5397
+L402O-Lubbock 3103 50th St.,453,149.0,0.4169
+L474O-Columbia 2003 Commerce Pl.,317,136.0,0.6592
+L122O-Spartanburg Asheville,284,124.0,0.5504
+L052O-Newark,786,115.0,0.6545
+L262O-Winston-Salem 5270 Germanton Rd.,380,121.0,0.5668
+L450O-Zion 3305 16th St.,409,101.0,0.6358
+L229O-Vernon 5 Industrial Drive,227,113.0,0.8196
+L517O-Chillicothe 1901 Western Ave.,304,148.0,0.8893
+L211Z-Imlay City 609 N. Fairgrounds Rd (Z),96,151.0,0.6842
+L311O-Piqua 226 Robert M Davis Pkwy,296,139.0,0.9129
+L287O-Albert Lea 601 Pilot St,217,151.0,0.5075
+L304O-Pierz 26015 MN-27,65,185.0,0.4694
+L174O-Highwood Estates,713,96.0,0.5514
+L221O-Kalamazoo 4001 Gull Road,197,130.0,0.5804
+L115O-Goldsboro,373,130.0,0.572
+L185O-Chapin 920 Amicks Ferry,300,135.0,0.7901
+L055O-Riverview,500,138.0,0.5589
+L103O-Waterford,1446,124.0,0.7673
+L487O-Kansas City 9006 E. 22nd Terrace,483,167.0,0.5871
+L509A-Osceola 204 S. Beech Road,24,192.0,0.2772
+L545O-Pensacola 4422 West Jackson St.,281,95.0,0.2625
+L507O-Conway 1325 North Museum Rd.,630,136.0,0.3215
+L591O-Cape Girardeau 2301 Bloomfield Rd.,380,179.0,0.4115
+L207O-Bozeman Jackrabbit Lane,1153,122.0,0.7463
+L324O-Swartz Creek 3029 Elms Rd,584,160.0,0.6104
+L139O-Chattanooga,597,117.0,0.4225
+L128O-Columbia Garner,249,103.0,0.261
+L248O-Heath 440 Industrial Parkway,305,134.0,0.7182
+L575O-New Palestine 5780 West US Highway 52,185,158.0,0.4335
+L210O-Shelby Township Jimmy's Dr,621,170.0,0.7324
+L293O-Maple Lake 27 Maple Avenue North,65,198.0,0.4403
+L383O-Cahokia 2415 Camp Jackson Rd.,634,132.0,0.5853
+L543O-Stapleton 36545 Alabama Highway 59,211,148.0,0.4772
+L579O-Montgomery 80 Market Pl.,350,105.0,0.2809
+L157O-Windsor Locks,202,175.0,0.412
+L176D-Elkhart Johnson St. (D),260,145.0,0.421
+L334O-Ravenna 4136 OH-14,245,176.0,0.6098
+L481O-Elizabethtown 4625 N. Dixie Hwy.,326,136.0,0.4626
+L015O-Mount Sterling,385,121.0,0.894
+L213X-East Moline 2901 19th St (X),40,204.0,0.3975
+L613O-Plaistow 205 Plaistow Road,494,90.0,0.4724
+L038O-Greer,419,137.0,0.8244
+L176K-Elkhart Mishawaka Rd. (K),287,134.0,0.6575
+L197B-Leesburg Walnut Ave. (B),104,167.0,0.3601
+L273O-Midlothian 2303 Oak Lake Blvd,195,228.0,0.8465
+L399O-Midland 315 N. Midland Dr.,445,137.0,0.5432
+L367O-Memphis 7279 Winchester Rd.,322,149.0,0.32
+L424O-Walker 13581 Arnold Rd.,215,121.0,0.4662
+L093O-Royal Palm Beach,824,118.0,0.7205
+L176G-Elkhart Franklin St. (G),373,106.0,0.6964
+L178B-Coloma Park St. (B),246,126.0,0.7948
+L238O-New Castle 3041 New Butler Road,191,127.0,0.7787
+L246O-Columbus Eastland 4111 Groves Road,496,106.0,0.4379
+L597O-Kingwood 1964 Northpark Dr ste #J,318,121.0,0.5379
+L018A-Wheelersburg (A),58,192.0,0.7006
+L145O-Cumberland,374,118.0,0.7405
+L176H-Elkhart Cassopolis St. (H),364,121.0,0.534
+L183O-Fort Wayne Wayne Haven St.,580,127.0,0.5001
+L541O-Eight Mile 472 Lott Rd.,180,120.0,0.2258
+L101O-Portage,338,149.0,0.4999
+L205O-Littleton Newtown Road,311,162.0,0.9723
+L410A-Collinsville 700 Johnson Hill Rd. (A),159,131.0,0.655
+L355O-Swansboro 1044 W. Corbett Ave.,445,137.0,0.5991
+L042O-Parris Island,142,151.0,0.6874
+L574O-Terre Haute 7380 E. SR 42,103,114.0,0.6123
+L113O-Grovetown,306,111.0,0.5053
+L434O-Alexandria 600 Veterans Dr.,405,105.0,0.5416
+L102O-Fenton,580,157.0,0.5697
+L537O-Mobile 5810 Old Pascagoula Rd.,230,112.0,0.3538
+L177C-Kouts IN-8 (C),98,179.0,0.5772
+L226O-Ann Arbor 3060 Lohr Circle,625,121.0,0.5654
+L389O-St. Louis 1024 South Vandeventer Ave.,950,108.0,0.8593
+L557O-Decatur 5465 E. US Route 36,547,146.0,0.4253
+L566O-Toledo 4835 S. Ave,418,144.0,0.6648
+L467O-Greenbrier 2104 Old Greenbrier Pike,372,115.0,0.6355
+L492O-St. Joseph 405 N. Woodbine,495,140.0,0.343
+L532O-Canton 125 Sidney Runnels Dr.,183,138.0,0.6272
+L549O-Indiana 2125 Shelly Dr.,415,109.0,0.7991
+L009O-Whitesburg,35,84.0,0.7783
+L371O-Orange Park 996 Blanding Blvd.,417,118.0,0.4843
+L077O-Ravenna,770,122.0,0.4323
+L194A-Athens Atlanta Hwy. (A),140,106.0,0.4166
+L317O-Nashville 2730 Whites Creek Pike,366,121.0,0.743
+L461O-Malta 250 State Route 38,131,120.0,0.6304
+L219O-Kalamazoo 3701 Stadium Drive,281,109.0,0.8184
+L302O-Waite Park 1551 7th Street South,157,192.0,0.3927
+L190O-Valdosta Bemiss Rd.,631,119.0,0.4025
+L284O-Des Moines 5499 NE 14th St,190,147.0,0.4215
+L255O-Irmo 1864 Dutch Fork Road,559,138.0,0.7405
+L569O-Highland 71 Executive Dr.,120,177.0,0.4995
+L043B-Hampton (B),394,130.0,0.7827
+L131O-Florence Irby,247,160.0,0.501
+L188O-Hartsville 817 W. Bobo Newsom,100,134.0,0.6468
+L260O-Harrison 155 N Clare Ave,211,211.0,0.5224
+L001O-Morehead (O),352,112.0,0.6993
+L049O-Basin Road,501,117.0,0.8648
+L096A-Wyoming (A),194,189.0,0.6465
+L223O-Highland 1555 N Milford Road,355,179.0,0.6219
+L169O-Malabar Railroad,74,161.0,0.8665
+L432O-Lafayette 311 Smalley Rd.,362,119.0,0.5345
+L580O-Montgomery 3810 Harrison Rd.,259,107.0,0.2202
+L520O-Heath 1676 Hebron Rd.,337,148.0,0.6331
+L286O-Austin 2801 West Oakland Ave,169,149.0,0.5242
+L470O-Clarksville 650 Huntco Dr.,145,118.0,0.5459
+L076O-Medina,401,169.0,0.7056
+L330O-Port Richey 9906 US-19,442,136.0,0.4255
+L485O-Lee's Summit 1200 Northeast Sloan,284,121.0,0.8081
+L068O-Franklin,268,132.0,0.777
+L120O-Spartanburg East Main,440,87.0,0.6082
+L141O-Irmo Lake Murray,268,119.0,0.3687
+L387O-Festus 902 McNutt School Rd.,423,148.0,0.6802
+L587O-Evansville 2500 Eastside Park Rd.,298,119.0,0.4247
+L003C-Willard (C),20,200.0,0.5908
+L150O-Waterbury West,490,104.0,0.9566
+L188E-Hartsville Poole St. (E),23,89.0,0.6146
+L267O-Worcester 3 Chestnut St,445,72.0,0.6379
+L396O-Midland 1010 N Loop 250 W,326,130.0,0.5836
+L551O-Waterford 8971 Peach St.,367,134.0,0.814
+L114O-Hinesville,221,176.0,1.0208
+L469O-Springfield 1304 5th Ave W,349,110.0,0.5572
+L110O-Southfield,613,127.0,0.8884
+L182A-Muncie West Riggin (A),261,182.0,0.2858
+L426O-Denham Springs 9240 Cockerham Rd.,171,131.0,0.4929
+L479O-Crestwood 6440 W. Hwy 146,192,140.0,0.5216
+L558O-Cedar Falls 6000 Chancellor Dr.,195,139.0,0.5284
+L568O-Highland 12447 US Highway 40,433,143.0,0.6528
+L051O-Dodson,329,128.0,0.6638
+L119O-Spartanburg Blackstock,205,129.0,0.721
+L291O-Buffalo 799 Chamberlain Ave SE,222,184.0,0.5826
+L056O-Lehigh Acres,456,140.0,1.0625
+L086O-Akron Peninsula,319,122.0,0.6224
+L283O-Des Moines 3244 NW Prairie Ln,379,204.0,0.5886
+L530O-Jackson 649 Monroe St.,194,168.0,0.3005
+L534O-Monroe 3407 Harvester Dr.,385,122.0,0.4553
+L116O-Kinston,332,119.0,0.8858
+L192O-Hurricane Self Storage Dr.,459,117.0,0.521
+L249O-Hebron 114 Lakewood Drive,117,139.0,0.7206
+L303O-Princeton 1800 15th St N,126,220.0,0.3389
+L623O-Lakeland 2520 Commerce Point Dr,424,114.0,0.3667
+L037O-Columbia,912,125.0,0.7316
+L136O-Knoxville Shotsman,442,133.0,0.5983
+L196A-Battle Creek 1316 Michigan Ave. (A),125,112.0,0.5265
+L343A-Dothan 618 Hodgesville Rd. (A),301,117.0,0.5574
+L611A-Hartsville 817 W. Bobo Newsom (A),195,133.0,0.5489
+L073O-Akron Shanafelt,694,95.0,0.5901
+L225O-Ferndale 3101 Bermuda Street,438,134.0,0.8434
+L265O-Hallandale Beach Miami 1000 W. Pembroke Rd.,653,93.0,1.2612
+L503O-Maumelle 98 Commercial Park Ct.,285,145.0,0.3079
+L360O-Winston-Salem 2115 Silas Creek Pkwy.,277,94.0,0.3384
+L155O-Windsor,686,113.0,0.4175
+L323O-Flint 4480 Fenton Rd,581,157.0,0.4565
+L126O-Anderson Main Street,313,98.0,0.5861
+L165O-West Allis,1305,127.0,0.5687
+L292O-Maple Lake 4824 Highway 55,207,175.0,0.4947
+L506O-Conway 1555 Hwy 365 S.,262,120.0,0.2344
+L003O-Willard (O),147,145.0,0.4112
+L028O-Nicholasville,805,120.0,0.8723
+L070O-North Congress,1312,102.0,0.8893
+L194C-Athens Hull Rd. (C),64,94.0,0.4582
+L096B-Wyoming (B),95,163.0,0.4359
+L359O-Greensboro 3730 West Wendover Ave.,550,117.0,0.3807
+L448O-Antioch 284 Main St.,269,125.0,0.8118
+L556O-Bloomington 2427 S. Main St.,551,125.0,0.6699
+L100O-Kalamazoo,784,101.0,0.9779
+L429O-Baton Rouge 9315 Foster Rd.,152,118.0,0.4797
+L433O-Youngsville 2711 Youngsville Hwy.,348,129.0,0.7545
+L588O-Evansville 2323 Saint George Rd.,201,129.0,0.5574
+L177G-Michigan City Lumber Center (G),83,179.0,0.341
+L187D-Cassatt US-1 (D),312,158.0,0.5869
+L188A-Hartsville 926 Carolina Ave. (A),107,128.0,0.3812
+L234O-Youngstown 2024 S Raccoon Road,141,106.0,0.7747
+L350O-Martinez 122 Davis Rd.,540,132.0,0.5143
+L318O-Cedar Rapids 804 Vernon Valley Dr,326,256.0,0.4464
+L463O-Milwaukee 7330 W. Good Hope Rd.,211,198.0,0.6655
+L554O-Peoria 8101 N. Hale Ave.,592,120.0,0.2926
+L266O-West Little River Miami 8460 NW 7th Ave.,572,86.0,1.4223
+L409O-Victoria 4401 John Stockbauer Dr.,771,111.0,0.5508
+L494O-Manhattan 2749 Eureka Terrace,659,179.0,0.4716
+L065O-Belleville,2112,86.0,0.9618
+L177E-Valparaiso State Rd. 149 (E),195,144.0,0.6687
+L090O-Lake Worth,433,83.0,0.7955
+L375O-Topeka 2650 SE California Ave.,388,148.0,0.7321
+L111O-Victory,319,128.0,0.7136
+L370O-Orange Park 2000 Wells Road A,430,123.0,0.4705
+L421O-Hammond 1000 Venice Ave.,738,120.0,0.4149
+L498O-Searcy 2800 S Main St.,148,122.0,0.6399
+L194O-Athens Old Jefferson Rd.,358,129.0,0.3809
+L241O-Chesterland 11695 Chillicothe Road,441,123.0,0.8806
+L562O-Ames 6115 West Lincoln Way,327,139.0,0.5372
+L006O-Salyersville (O),81,113.0,0.7529
+L529O-Jackson 5831 Highway 80 W.,258,97.0,0.3124
+L298O-Big Lake 18055 198th Avenue,135,207.0,0.7286
+L582O-LaGrange 1304 Hogansville Rd.,235,144.0,0.5947
+L232O-Johnson City 660 Riverside Drive,427,152.0,0.9731
+L274O-Billings 1447 62nd St. West,304,228.0,0.4891
+L476O-Sellersburg 8511 Commerce Park Dr.,358,110.0,0.5583
+L091O-Fern Park,379,122.0,0.6803
+L436O-Rockford 4908 S Main St.,255,160.0,0.5296
+L489O-St. Joseph 3507 Pear St.,208,159.0,0.2897
+L196B-Battle Creek Raymond Rd (B),85,165.0,0.4446
+L378A-Baton Rouge 8969 Interline Ave. (A),77,114.0,0.4782
+L066O-City Place,267,103.0,1.655
+L213O-East Moline 1801 37th Ave,401,182.0,0.4124
+L381O-Pineville 1402 Military High,141,105.0,0.6621
+L184O-Noblesville Hague Rd.,422,143.0,0.5585
+L089O-Blue Heron,1241,105.0,1.299
+L401O-Port Arthur 8989 Memorial Blvd.,274,130.0,0.3024
+L488O-Independence 18020 E. US HWY 24,195,159.0,0.3969
+L203O-Panama City Hwy. 22,149,131.0,0.393
+L209O-Portland Main St,785,116.0,0.7698
+L512O-Holt 2302 Jarco Dr.,308,115.0,1.0149
+L095O-Grand Rapids,501,176.0,0.3675
+L176A-Bristol Bloomingdale (A),117,130.0,0.4575
+L466O-Waukesha 1515 Manhattan Dr.,136,107.0,0.8241
+L041B-Beaufort (B),111,113.0,1.0454
+L050O-Prices Corner,452,118.0,0.9515
+L035O-Frankfort,413,144.0,0.6376
+L078A-Kent (A),66,141.0,0.685
+L211O-Dryden 4799 Dryden Rd,225,135.0,0.6158
+L252O-Clayton 7533 Salem Avenue,335,135.0,0.3131
+L615O-Bacliff 2919 Hwy 146,520,161.0,0.7327
+L244O-Berea 650 W Bagley Road,993,116.0,0.4922
+L502O-Little Rock 4607 Hoffman Rd.,241,181.0,0.249
+L616O-Houston 12610 Tanner Rd,456,245.0,0.5063
+L082O-Brecksville,518,138.0,0.7165
+L159O-Columbus Lewis Center,800,104.0,0.7684
+L193A-Mauldin Murray Dr. (A),380,133.0,0.4443
+L307O-Alexandria 761 Genes Rd SE,129,179.0,0.4268
+L519O-New Lexington 6980 Hunter Dr.,293,133.0,0.8105
+L176B-Elkhart Middleton Run (B),171,116.0,0.4628
+L186O-Bettendorf Valley Dr.,657,194.0,0.476
+L156O-East Longmeadow,372,171.0,0.6094
+L358O-Jacksonville 108 N Marine Blvd.,345,122.0,0.6944
+L614O-Orlando 5960 Highclere St,813,108.0,0.3957
+L406C-Nacogdoches 2401 South St. (C),152,194.0,0.3038
+L047O-North Market,795,79.0,0.6928
+L179B-Pendleton Enterprise Dr. (B),248,135.0,0.4624
+L312O-Tipp City 895 N 3rd St,172,154.0,0.3598
+L153O-Simsbury Center,254,129.0,0.9592
+L508O-Osceola 11590 McKinley Highway,179,137.0,0.4645
+L351O-Martinez 3700 Washington Rd.,600,136.0,0.5173
+L440O-Yorkville 204 Wolf St.,194,155.0,0.7632
+L407O-Victoria 1402 E Rio Grande,408,117.0,0.4121
+L511O-Springfield 1290 W. Dickman Rd.,485,120.0,0.5059
+L134O-Goodlettsville Rivergate,654,149.0,0.7265
+L548O-Pittsburgh 133 Cemetery Lane,187,124.0,0.8037
+L067O-West Palm Beach,218,83.0,1.3412
+L437O-Machesney Park 1243 Shappert Rd.,180,175.0,0.453
+L084O-Hudson,386,136.0,0.8021
+L256O-Irmo 1025 Rauch Metz Road,481,133.0,0.8369
+L563O-Iowa City 4181 Alyssa Court,507,119.0,0.6942
+L611B-Hartsville 1918 W. Bobo Newsom (B),537,117.0,0.4169
+L063O-Sunnybrook,1051,74.0,1.352
+L230O-Owego 888 State Route 434,220,150.0,0.6431
+L177A-Hebron 725 West (A),314,178.0,0.4906
+L189O-Shelbyville Michigan Rd.,370,151.0,0.8513
+L288O-Waseca 405 15th Ave,182,187.0,0.376
+L142A-South Northborough (A),137,153.0,0.5618
+L348O-Augusta 1881 Gordon Highway,220,101.0,0.5513
+L414O-Bay St Louis 801 Turner St.,452,112.0,1.1587
+L242O-Painesville 649 Hoyt Street,159,229.0,0.5836
+L280O-Waterloo 3963 W. Airline Hwy,139,160.0,0.5789
+L345O-Augusta 1805 Wylds Rd.,392,131.0,0.3736
+L553O-Mossville 10624 North Galena Rd.,188,231.0,0.2997
+L125O-Greenville,404,140.0,0.5146
+L211X-Metamora 4020 S. Lapeer Rd (X),75,160.0,0.702
+L379O-Gonzales 14401 Highway 44,465,144.0,0.8525
+L544O-Cantonment 1980 West 10 Mile Rd.,232,122.0,0.5227
+L555O-East Peoria 500 Pinecrest Dr.,183,156.0,0.5916
+L106O-Romulus Van Born,399,125.0,1.0504
+L184A-Noblesville IN-32 (A),322,143.0,0.4434
+L394O-Meridian 3415 Highway 45 N,182,132.0,0.6013
+L097O-Grandville,406,172.0,0.6874
+L185A-Chapin 320 Amicks Ferry (A),185,148.0,0.7369
+L213Z-East Moline 3919 17th St (Z),142,147.0,0.561
+L233O-Youngstown 5355 Belmont Avenue,158,115.0,0.6003
+L456O-Griffith 500 East Ridge Rd.,329,83.0,0.9456
+L253O-Dayton 1700 Shiloh Springs Road,722,126.0,0.4261
+L321O-Missoula 6385 US Hwy 10 W,33,159.0,0.9014
+L344O-Aiken 2598 Whiskey Rd.,616,131.0,0.5474
+L085O-Sandusky,181,141.0,0.5663
+L204O-Fort Wayne Decatur Rd,245,110.0,0.6156
+L258O-Hixson 8307 Hixson Pike,244,148.0,0.4602
+L354O-Watkinsville 1711 Hog Mountain Rd.,480,124.0,0.4804
+L581O-Montgomery 836 S. McDonough St.,118,147.0,0.3285
+L263O-Winston-Salem 4260 Patterson Ave.,195,119.0,0.8179
+L309O-Swartz Creek 4140 Morrish Rd,280,185.0,0.5553
+L495O-Pine Bluff 2700 Commerce Circle,301,129.0,0.363
+L079O-East Liverpool,224,180.0,0.5011
+L547O-North Huntingdon 1001 Bridge St.,230,141.0,0.8966
+L010O-Winchester (O),218,132.0,0.8176
+L239O-New Castle 303 W Harbor Road,259,146.0,0.6606
+L269O-Manassas 11524 Balls Ford Rd,387,157.0,0.7976
+L290O-Maple Plain 5303 Pioneer Creek Dr,244,167.0,0.7898
+L490O-St. Joseph 3416 Pear St.,386,159.0,0.3389
+L080O-Warren,520,132.0,0.3083
+L181O-Fort Wayne Lima Rd.,575,145.0,0.6262
+L289O-Waseca 1312 5th St SE,130,127.0,0.4352
+L504O-North Little Rock 8000 North Ashley Rd.,278,241.0,0.5314
+L546O-Pittsburgh 3 Weyman Rd.,146,75.0,1.3386
+L081O-Avon,739,115.0,0.5949
+L107O-Westland,247,119.0,0.8855
+L168O-Malabar,775,133.0,0.664
+L195A-Farmland 900 West (A),85,143.0,0.334
+L259O-Waterloo 3680 University Ave,236,207.0,0.6024
+L099O-East Lansing,539,119.0,0.58
+L305O-Little Falls 11685 150th Ave,138,198.0,0.36
+L385O-Imperial 6215 W Outer Rd.,466,157.0,0.7821
+L419O-Ponchatoula 18577 Hwy 22 E.,347,129.0,0.7523
+L187B-Camden Monroe St. (B),40,168.0,0.8648
+L552O-Ravenna 7830 State Rd 14,303,123.0,0.5634
+L586O-Evansville 2401 North Cullen Ave.,159,157.0,0.4122
+L629O-Panama City 13911 Panama City Beach Pkwy,360,114.0,0.619
+L333O-Hamilton 381 Old Corvallis Road,169,191.0,0.5431
+L391O-Eureka 1699 W. Fifth St.,513,106.0,0.7795
+L590O-Evansville 4905 Pollack Ave.,228,101.0,0.5725
+L516O-Burton 4070 E. Bristol Rd.,230,145.0,0.307
+L104A-Clarkston (A),210,155.0,0.6933
+L177B-Hebron 575 West (B),220,177.0,0.4495
+L208O-Panama City MLK Jr Blvd,391,142.0,0.3363
+L285O-Rochester 1308 Hadley View Court NE,328,160.0,0.4283
+L362O-Greenville 1412 Poinsett Highway,184,103.0,0.3527
+L439O-Fitchburg 5258 Anton Dr.,149,123.0,0.7467
+L542O-Fairhope 23800 US Highway 98,263,153.0,0.4982
+L178C-Saint Joseph Palladium Dr. (C),339,140.0,0.7029
+L589O-Evansville 2811 S Green River Rd.,250,104.0,0.4887
+L578O-Montgomery 6399 Atlanta Hwy.,325,176.0,0.2576
+L002B-Staffordsville (B),101,128.0,0.9386
+L074O-Akron Chenoweth,459,144.0,0.453
+L170O-Toledo,825,141.0,0.7014
+L027O-Georgetown,301,202.0,0.6157
+L423O-Livingston 29575 S. Frost Rd.,234,132.0,0.6591
+L480O-La Grange 428 Main St.,357,124.0,0.5846
+L585O-Athens 24958 Nick Davis Rd.,263,177.0,0.4238
+L620O-Westover 3115 Gillionville Rd,328,142.0,0.2794
+L158O-Powell,751,92.0,0.5295
+L576O-Greenwood 444 North Emerson Ave.,286,134.0,0.491
