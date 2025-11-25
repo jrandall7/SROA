@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    sroa:
+      email: 
+      name: 
+      password: $2b$12$OBOCqwnZY8yu5tE9Ih6Z1uIFo3YCFjNtkzVwRMLP7xAzedHrnlrdG
+
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: auth_cookie
+
+pre-authorized:
+  emails:
+    - jrandall@sroa.com
