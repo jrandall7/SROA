@@ -8,3 +8,4 @@ datetime
 matplotlib
 streamlit_authenticator
 PyYAML
+statsmodels
