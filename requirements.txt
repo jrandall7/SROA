@@ -9,3 +9,4 @@ matplotlib
 streamlit_authenticator
 PyYAML
 statsmodels
+plotly
